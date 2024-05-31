@@ -10,9 +10,9 @@ A simple web-based number guessing game where the user has to guess a number bet
 - Displays a congratulatory message if the guess is correct.
 - Displays a game over message if the user fails to guess the number within 3 attempts.
 
-## Demo
+## Project Link
 
-![Game Screenshot](screenshot.png)
+[Guess the Number Game](https://muhammadtt97.github.io/guessing-game/)
 
 ## Getting Started
 
